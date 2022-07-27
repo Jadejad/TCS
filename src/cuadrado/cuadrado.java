@@ -10,11 +10,9 @@ Scanner scan = new Scanner(System.in);
 		
 		int n = scan.nextInt();
 		int i = 0;
-		int cuad = n;
 		
 		for (i = 1; i <= n; i++) {
 			System.out.println(i*i);
-			
 		}
 	}
 
